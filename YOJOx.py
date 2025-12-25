@@ -288,7 +288,7 @@ def main():
             menu_courses()
         elif c == "2":
             menu_tools()
-        elif c == "0":
+        elif c == "99":
             sys.exit()
 
 if __name__ == "__main__":
